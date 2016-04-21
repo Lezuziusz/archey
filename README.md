@@ -1,3 +1,5 @@
 Archey is a system information tool written in Python.
 
-I am planning to do a complete re-write of Archey. Please stay tuned.
+Forked from https://github.com/djmelik/archey
+
+Updated to my system, currently Debian 8
